@@ -13,3 +13,4 @@ bin           = @["ingest"]
 requires "nim >= 2.0.0"
 requires "owlkettle#head"
 requires "frosty >= 3.0.0"
+requires "slicerator >= 0.3.3"
